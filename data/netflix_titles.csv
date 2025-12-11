@@ -1,0 +1,301 @@
+show_id,type,title,director,cast,country,date_added,release_year,rating,duration,listed_in,description
+s0,TV Show,Sample Title 0,Director 0,"Actor 0, Actress 0",Brazil,15 February 2018,1999,G,112 min,Comedy,Synthetic description for sample title 0.
+s1,TV Show,Sample Title 1,Director 1,"Actor 1, Actress 1",United Kingdom,9 April 2018,1993,PG,110 min,Drama,Synthetic description for sample title 1.
+s2,TV Show,Sample Title 2,Director 2,"Actor 2, Actress 2",United States,15 April 2018,2007,PG,65 min,Drama,Synthetic description for sample title 2.
+s3,Movie,Sample Title 3,Director 3,"Actor 3, Actress 3",India,7 April 2023,1995,TV-PG,7 Seasons,Action,Synthetic description for sample title 3.
+s4,Movie,Sample Title 4,Director 4,"Actor 4, Actress 4",Brazil,26 January 2011,1995,TV-PG,3 Seasons,Comedy,Synthetic description for sample title 4.
+s5,Movie,Sample Title 5,Director 5,"Actor 5, Actress 5",Japan,5 April 2015,2018,TV-MA,80 min,Romance,Synthetic description for sample title 5.
+s6,Movie,Sample Title 6,Director 6,"Actor 6, Actress 6",Turkey,21 March 2020,2015,TV-14,120 min,Drama,Synthetic description for sample title 6.
+s7,Movie,Sample Title 7,Director 7,"Actor 7, Actress 7",United States,16 April 2021,2003,TV-14,137 min,Action,Synthetic description for sample title 7.
+s8,TV Show,Sample Title 8,Director 8,"Actor 8, Actress 8",Turkey,24 February 2018,1992,PG-13,8 Seasons,Drama,Synthetic description for sample title 8.
+s9,TV Show,Sample Title 9,Director 9,"Actor 9, Actress 9",Japan,5 January 2020,2022,TV-14,126 min,Drama,Synthetic description for sample title 9.
+s10,Movie,Sample Title 10,Director 10,"Actor 10, Actress 0",Brazil,5 January 2012,2023,R,129 min,Sci-Fi,Synthetic description for sample title 10.
+s11,Movie,Sample Title 11,Director 11,"Actor 11, Actress 1",Brazil,21 January 2020,1996,TV-14,175 min,Romance,Synthetic description for sample title 11.
+s12,Movie,Sample Title 12,Director 12,"Actor 12, Actress 2",India,3 February 2015,2015,PG,10 Seasons,Drama,Synthetic description for sample title 12.
+s13,TV Show,Sample Title 13,Director 13,"Actor 13, Actress 3",Turkey,6 April 2012,2017,TV-14,126 min,Drama,Synthetic description for sample title 13.
+s14,TV Show,Sample Title 14,Director 14,"Actor 14, Actress 4",India,23 April 2020,2005,TV-MA,8 Seasons,Horror,Synthetic description for sample title 14.
+s15,Movie,Sample Title 15,Director 15,"Actor 0, Actress 5",India,9 April 2023,2009,TV-PG,2 Seasons,Horror,Synthetic description for sample title 15.
+s16,TV Show,Sample Title 16,Director 16,"Actor 1, Actress 6",Turkey,27 April 2013,2000,TV-PG,10 Seasons,Documentary,Synthetic description for sample title 16.
+s17,TV Show,Sample Title 17,Director 17,"Actor 2, Actress 7",Brazil,24 February 2017,2018,PG-13,3 Seasons,Action,Synthetic description for sample title 17.
+s18,TV Show,Sample Title 18,Director 18,"Actor 3, Actress 8",Turkey,18 March 2012,2000,PG,137 min,Documentary,Synthetic description for sample title 18.
+s19,Movie,Sample Title 19,Director 19,"Actor 4, Actress 9",Canada,6 January 2022,2018,TV-14,4 Seasons,Horror,Synthetic description for sample title 19.
+s20,TV Show,Sample Title 20,Director 0,"Actor 5, Actress 0",United Kingdom,6 January 2021,2019,TV-PG,3 Seasons,Horror,Synthetic description for sample title 20.
+s21,Movie,Sample Title 21,Director 1,"Actor 6, Actress 1",United States,11 April 2017,1992,R,157 min,Romance,Synthetic description for sample title 21.
+s22,TV Show,Sample Title 22,Director 2,"Actor 7, Actress 2",Japan,16 January 2016,1997,PG,10 Seasons,Horror,Synthetic description for sample title 22.
+s23,Movie,Sample Title 23,Director 3,"Actor 8, Actress 3",United Kingdom,10 April 2018,1994,R,107 min,Horror,Synthetic description for sample title 23.
+s24,Movie,Sample Title 24,Director 4,"Actor 9, Actress 4",United States,4 April 2017,2008,TV-PG,66 min,Drama,Synthetic description for sample title 24.
+s25,Movie,Sample Title 25,Director 5,"Actor 10, Actress 5",Canada,27 April 2017,1999,PG-13,6 Seasons,Comedy,Synthetic description for sample title 25.
+s26,TV Show,Sample Title 26,Director 6,"Actor 11, Actress 6",India,28 February 2013,2008,TV-PG,1 Seasons,Documentary,Synthetic description for sample title 26.
+s27,Movie,Sample Title 27,Director 7,"Actor 12, Actress 7",United Kingdom,22 March 2022,2007,PG,117 min,Action,Synthetic description for sample title 27.
+s28,Movie,Sample Title 28,Director 8,"Actor 13, Actress 8",India,23 February 2020,2015,TV-MA,158 min,Comedy,Synthetic description for sample title 28.
+s29,Movie,Sample Title 29,Director 9,"Actor 14, Actress 9",Turkey,24 April 2014,2014,TV-MA,127 min,Romance,Synthetic description for sample title 29.
+s30,Movie,Sample Title 30,Director 10,"Actor 0, Actress 0",United Kingdom,22 April 2019,2019,TV-PG,8 Seasons,Comedy,Synthetic description for sample title 30.
+s31,Movie,Sample Title 31,Director 11,"Actor 1, Actress 1",Turkey,13 February 2022,2009,PG-13,123 min,Comedy,Synthetic description for sample title 31.
+s32,Movie,Sample Title 32,Director 12,"Actor 2, Actress 2",United Kingdom,10 April 2015,2004,PG,10 Seasons,Sci-Fi,Synthetic description for sample title 32.
+s33,TV Show,Sample Title 33,Director 13,"Actor 3, Actress 3",Turkey,4 January 2014,2009,PG-13,4 Seasons,Documentary,Synthetic description for sample title 33.
+s34,Movie,Sample Title 34,Director 14,"Actor 4, Actress 4",Turkey,15 February 2018,2001,TV-14,4 Seasons,Horror,Synthetic description for sample title 34.
+s35,TV Show,Sample Title 35,Director 15,"Actor 5, Actress 5",United States,6 March 2014,2018,R,4 Seasons,Romance,Synthetic description for sample title 35.
+s36,TV Show,Sample Title 36,Director 16,"Actor 6, Actress 6",Canada,16 March 2010,1990,PG,4 Seasons,Documentary,Synthetic description for sample title 36.
+s37,Movie,Sample Title 37,Director 17,"Actor 7, Actress 7",Japan,11 February 2023,2002,TV-14,3 Seasons,Romance,Synthetic description for sample title 37.
+s38,TV Show,Sample Title 38,Director 18,"Actor 8, Actress 8",Turkey,14 January 2010,2005,TV-PG,1 Seasons,Documentary,Synthetic description for sample title 38.
+s39,Movie,Sample Title 39,Director 19,"Actor 9, Actress 9",Canada,19 February 2014,2016,PG,8 Seasons,Drama,Synthetic description for sample title 39.
+s40,TV Show,Sample Title 40,Director 0,"Actor 10, Actress 0",Turkey,22 March 2017,2011,G,1 Seasons,Sci-Fi,Synthetic description for sample title 40.
+s41,Movie,Sample Title 41,Director 1,"Actor 11, Actress 1",Brazil,3 April 2016,1991,G,5 Seasons,Documentary,Synthetic description for sample title 41.
+s42,TV Show,Sample Title 42,Director 2,"Actor 12, Actress 2",Japan,12 March 2019,1995,TV-MA,149 min,Drama,Synthetic description for sample title 42.
+s43,TV Show,Sample Title 43,Director 3,"Actor 13, Actress 3",Brazil,9 April 2014,1999,PG-13,130 min,Comedy,Synthetic description for sample title 43.
+s44,TV Show,Sample Title 44,Director 4,"Actor 14, Actress 4",United States,5 February 2022,2016,TV-MA,100 min,Drama,Synthetic description for sample title 44.
+s45,TV Show,Sample Title 45,Director 5,"Actor 0, Actress 5",United States,25 February 2010,1990,TV-MA,6 Seasons,Comedy,Synthetic description for sample title 45.
+s46,Movie,Sample Title 46,Director 6,"Actor 1, Actress 6",Japan,14 April 2011,2022,R,65 min,Comedy,Synthetic description for sample title 46.
+s47,Movie,Sample Title 47,Director 7,"Actor 2, Actress 7",Canada,9 March 2018,2004,G,112 min,Drama,Synthetic description for sample title 47.
+s48,TV Show,Sample Title 48,Director 8,"Actor 3, Actress 8",United Kingdom,24 April 2022,1996,R,4 Seasons,Sci-Fi,Synthetic description for sample title 48.
+s49,Movie,Sample Title 49,Director 9,"Actor 4, Actress 9",Canada,8 January 2017,2018,R,1 Seasons,Sci-Fi,Synthetic description for sample title 49.
+s50,TV Show,Sample Title 50,Director 10,"Actor 5, Actress 0",United States,6 January 2020,2013,G,7 Seasons,Drama,Synthetic description for sample title 50.
+s51,Movie,Sample Title 51,Director 11,"Actor 6, Actress 1",Japan,18 February 2016,2004,R,3 Seasons,Sci-Fi,Synthetic description for sample title 51.
+s52,Movie,Sample Title 52,Director 12,"Actor 7, Actress 2",Canada,26 February 2017,2011,G,10 Seasons,Romance,Synthetic description for sample title 52.
+s53,Movie,Sample Title 53,Director 13,"Actor 8, Actress 3",Turkey,5 April 2013,2001,PG-13,121 min,Documentary,Synthetic description for sample title 53.
+s54,Movie,Sample Title 54,Director 14,"Actor 9, Actress 4",United States,7 January 2014,1998,TV-MA,155 min,Horror,Synthetic description for sample title 54.
+s55,Movie,Sample Title 55,Director 15,"Actor 10, Actress 5",Canada,25 March 2019,2003,PG-13,157 min,Horror,Synthetic description for sample title 55.
+s56,Movie,Sample Title 56,Director 16,"Actor 11, Actress 6",India,22 February 2011,2017,TV-MA,3 Seasons,Documentary,Synthetic description for sample title 56.
+s57,Movie,Sample Title 57,Director 17,"Actor 12, Actress 7",Turkey,12 February 2014,2021,R,169 min,Comedy,Synthetic description for sample title 57.
+s58,Movie,Sample Title 58,Director 18,"Actor 13, Actress 8",India,1 February 2016,1991,PG,3 Seasons,Sci-Fi,Synthetic description for sample title 58.
+s59,Movie,Sample Title 59,Director 19,"Actor 14, Actress 9",Canada,22 February 2020,2007,TV-MA,123 min,Horror,Synthetic description for sample title 59.
+s60,Movie,Sample Title 60,Director 0,"Actor 0, Actress 0",Japan,24 February 2017,2015,R,9 Seasons,Documentary,Synthetic description for sample title 60.
+s61,Movie,Sample Title 61,Director 1,"Actor 1, Actress 1",Turkey,21 February 2012,1993,TV-MA,5 Seasons,Documentary,Synthetic description for sample title 61.
+s62,TV Show,Sample Title 62,Director 2,"Actor 2, Actress 2",Canada,1 March 2019,2007,R,144 min,Action,Synthetic description for sample title 62.
+s63,Movie,Sample Title 63,Director 3,"Actor 3, Actress 3",Turkey,22 January 2014,1998,PG,5 Seasons,Sci-Fi,Synthetic description for sample title 63.
+s64,Movie,Sample Title 64,Director 4,"Actor 4, Actress 4",Canada,26 February 2019,2015,PG,106 min,Horror,Synthetic description for sample title 64.
+s65,TV Show,Sample Title 65,Director 5,"Actor 5, Actress 5",United Kingdom,26 January 2022,2009,TV-MA,174 min,Sci-Fi,Synthetic description for sample title 65.
+s66,Movie,Sample Title 66,Director 6,"Actor 6, Actress 6",India,8 April 2020,2015,G,3 Seasons,Sci-Fi,Synthetic description for sample title 66.
+s67,Movie,Sample Title 67,Director 7,"Actor 7, Actress 7",United Kingdom,8 April 2010,1995,TV-PG,147 min,Drama,Synthetic description for sample title 67.
+s68,Movie,Sample Title 68,Director 8,"Actor 8, Actress 8",Turkey,26 April 2022,2018,TV-PG,7 Seasons,Action,Synthetic description for sample title 68.
+s69,TV Show,Sample Title 69,Director 9,"Actor 9, Actress 9",India,24 January 2014,2014,PG-13,167 min,Romance,Synthetic description for sample title 69.
+s70,TV Show,Sample Title 70,Director 10,"Actor 10, Actress 0",Brazil,3 January 2011,2008,PG-13,83 min,Drama,Synthetic description for sample title 70.
+s71,TV Show,Sample Title 71,Director 11,"Actor 11, Actress 1",United States,3 April 2018,2018,TV-MA,9 Seasons,Horror,Synthetic description for sample title 71.
+s72,TV Show,Sample Title 72,Director 12,"Actor 12, Actress 2",Canada,21 April 2020,1992,PG-13,156 min,Drama,Synthetic description for sample title 72.
+s73,TV Show,Sample Title 73,Director 13,"Actor 13, Actress 3",Turkey,14 January 2012,1999,R,149 min,Drama,Synthetic description for sample title 73.
+s74,TV Show,Sample Title 74,Director 14,"Actor 14, Actress 4",Brazil,23 April 2011,2002,TV-14,5 Seasons,Horror,Synthetic description for sample title 74.
+s75,Movie,Sample Title 75,Director 15,"Actor 0, Actress 5",United States,26 January 2021,2005,R,121 min,Documentary,Synthetic description for sample title 75.
+s76,TV Show,Sample Title 76,Director 16,"Actor 1, Actress 6",United States,2 March 2016,2002,R,2 Seasons,Horror,Synthetic description for sample title 76.
+s77,Movie,Sample Title 77,Director 17,"Actor 2, Actress 7",India,10 January 2022,2019,PG-13,139 min,Horror,Synthetic description for sample title 77.
+s78,TV Show,Sample Title 78,Director 18,"Actor 3, Actress 8",Japan,25 February 2010,2013,R,6 Seasons,Action,Synthetic description for sample title 78.
+s79,TV Show,Sample Title 79,Director 19,"Actor 4, Actress 9",Japan,26 January 2015,2003,R,9 Seasons,Action,Synthetic description for sample title 79.
+s80,Movie,Sample Title 80,Director 0,"Actor 5, Actress 0",Canada,12 January 2012,2006,PG-13,128 min,Sci-Fi,Synthetic description for sample title 80.
+s81,Movie,Sample Title 81,Director 1,"Actor 6, Actress 1",India,3 January 2010,2007,PG-13,8 Seasons,Comedy,Synthetic description for sample title 81.
+s82,Movie,Sample Title 82,Director 2,"Actor 7, Actress 2",United Kingdom,25 April 2020,1994,PG,9 Seasons,Horror,Synthetic description for sample title 82.
+s83,Movie,Sample Title 83,Director 3,"Actor 8, Actress 3",Brazil,12 January 2020,1995,TV-MA,8 Seasons,Drama,Synthetic description for sample title 83.
+s84,Movie,Sample Title 84,Director 4,"Actor 9, Actress 4",United States,23 February 2022,2019,PG-13,7 Seasons,Comedy,Synthetic description for sample title 84.
+s85,TV Show,Sample Title 85,Director 5,"Actor 10, Actress 5",Japan,9 April 2016,1991,TV-14,180 min,Documentary,Synthetic description for sample title 85.
+s86,Movie,Sample Title 86,Director 6,"Actor 11, Actress 6",Japan,10 January 2019,2001,R,60 min,Horror,Synthetic description for sample title 86.
+s87,TV Show,Sample Title 87,Director 7,"Actor 12, Actress 7",Turkey,17 April 2016,2014,TV-PG,174 min,Drama,Synthetic description for sample title 87.
+s88,TV Show,Sample Title 88,Director 8,"Actor 13, Actress 8",Japan,9 April 2018,2020,G,5 Seasons,Action,Synthetic description for sample title 88.
+s89,TV Show,Sample Title 89,Director 9,"Actor 14, Actress 9",Brazil,23 February 2017,1991,PG-13,7 Seasons,Documentary,Synthetic description for sample title 89.
+s90,TV Show,Sample Title 90,Director 10,"Actor 0, Actress 0",United States,10 February 2019,2006,G,1 Seasons,Comedy,Synthetic description for sample title 90.
+s91,TV Show,Sample Title 91,Director 11,"Actor 1, Actress 1",United Kingdom,6 February 2014,2018,TV-MA,85 min,Action,Synthetic description for sample title 91.
+s92,Movie,Sample Title 92,Director 12,"Actor 2, Actress 2",Brazil,27 January 2021,1990,TV-14,3 Seasons,Action,Synthetic description for sample title 92.
+s93,TV Show,Sample Title 93,Director 13,"Actor 3, Actress 3",India,13 March 2019,1994,TV-PG,8 Seasons,Comedy,Synthetic description for sample title 93.
+s94,Movie,Sample Title 94,Director 14,"Actor 4, Actress 4",India,22 February 2015,2008,G,150 min,Documentary,Synthetic description for sample title 94.
+s95,Movie,Sample Title 95,Director 15,"Actor 5, Actress 5",India,13 February 2019,1990,TV-MA,9 Seasons,Sci-Fi,Synthetic description for sample title 95.
+s96,TV Show,Sample Title 96,Director 16,"Actor 6, Actress 6",Canada,10 February 2021,2003,PG-13,9 Seasons,Horror,Synthetic description for sample title 96.
+s97,TV Show,Sample Title 97,Director 17,"Actor 7, Actress 7",India,25 March 2018,2021,PG,6 Seasons,Action,Synthetic description for sample title 97.
+s98,Movie,Sample Title 98,Director 18,"Actor 8, Actress 8",Turkey,9 March 2010,1993,TV-14,143 min,Documentary,Synthetic description for sample title 98.
+s99,TV Show,Sample Title 99,Director 19,"Actor 9, Actress 9",India,15 February 2015,1993,G,97 min,Comedy,Synthetic description for sample title 99.
+s100,TV Show,Sample Title 100,Director 0,"Actor 10, Actress 0",United States,26 March 2022,1992,R,92 min,Comedy,Synthetic description for sample title 100.
+s101,Movie,Sample Title 101,Director 1,"Actor 11, Actress 1",India,22 March 2016,2012,TV-14,123 min,Sci-Fi,Synthetic description for sample title 101.
+s102,Movie,Sample Title 102,Director 2,"Actor 12, Actress 2",India,27 March 2020,2016,PG,117 min,Drama,Synthetic description for sample title 102.
+s103,TV Show,Sample Title 103,Director 3,"Actor 13, Actress 3",Turkey,8 March 2012,1999,TV-PG,103 min,Comedy,Synthetic description for sample title 103.
+s104,TV Show,Sample Title 104,Director 4,"Actor 14, Actress 4",United States,28 January 2023,2006,PG,3 Seasons,Documentary,Synthetic description for sample title 104.
+s105,Movie,Sample Title 105,Director 5,"Actor 0, Actress 5",United States,10 March 2012,2000,TV-MA,72 min,Action,Synthetic description for sample title 105.
+s106,Movie,Sample Title 106,Director 6,"Actor 1, Actress 6",Brazil,22 January 2011,1991,R,6 Seasons,Romance,Synthetic description for sample title 106.
+s107,TV Show,Sample Title 107,Director 7,"Actor 2, Actress 7",Turkey,14 February 2021,2013,TV-MA,80 min,Horror,Synthetic description for sample title 107.
+s108,TV Show,Sample Title 108,Director 8,"Actor 3, Actress 8",United Kingdom,4 February 2013,1997,TV-MA,67 min,Romance,Synthetic description for sample title 108.
+s109,Movie,Sample Title 109,Director 9,"Actor 4, Actress 9",United States,28 April 2015,2021,TV-14,157 min,Romance,Synthetic description for sample title 109.
+s110,TV Show,Sample Title 110,Director 10,"Actor 5, Actress 0",United Kingdom,25 February 2016,1997,G,118 min,Drama,Synthetic description for sample title 110.
+s111,Movie,Sample Title 111,Director 11,"Actor 6, Actress 1",India,1 January 2018,1998,PG,5 Seasons,Drama,Synthetic description for sample title 111.
+s112,Movie,Sample Title 112,Director 12,"Actor 7, Actress 2",Japan,6 February 2015,1992,G,121 min,Sci-Fi,Synthetic description for sample title 112.
+s113,Movie,Sample Title 113,Director 13,"Actor 8, Actress 3",United States,8 January 2012,2020,G,3 Seasons,Documentary,Synthetic description for sample title 113.
+s114,Movie,Sample Title 114,Director 14,"Actor 9, Actress 4",Canada,21 February 2012,2008,G,137 min,Comedy,Synthetic description for sample title 114.
+s115,Movie,Sample Title 115,Director 15,"Actor 10, Actress 5",India,16 February 2017,2014,G,135 min,Documentary,Synthetic description for sample title 115.
+s116,Movie,Sample Title 116,Director 16,"Actor 11, Actress 6",Canada,16 January 2023,1994,G,137 min,Comedy,Synthetic description for sample title 116.
+s117,Movie,Sample Title 117,Director 17,"Actor 12, Actress 7",Japan,22 April 2013,2004,TV-MA,3 Seasons,Horror,Synthetic description for sample title 117.
+s118,Movie,Sample Title 118,Director 18,"Actor 13, Actress 8",Brazil,11 January 2017,1990,TV-PG,108 min,Documentary,Synthetic description for sample title 118.
+s119,Movie,Sample Title 119,Director 19,"Actor 14, Actress 9",India,27 March 2015,2021,PG,175 min,Drama,Synthetic description for sample title 119.
+s120,TV Show,Sample Title 120,Director 0,"Actor 0, Actress 0",Japan,13 March 2013,2002,PG,1 Seasons,Horror,Synthetic description for sample title 120.
+s121,Movie,Sample Title 121,Director 1,"Actor 1, Actress 1",United States,11 March 2023,1992,TV-14,139 min,Horror,Synthetic description for sample title 121.
+s122,TV Show,Sample Title 122,Director 2,"Actor 2, Actress 2",India,16 March 2012,1990,G,10 Seasons,Comedy,Synthetic description for sample title 122.
+s123,TV Show,Sample Title 123,Director 3,"Actor 3, Actress 3",United Kingdom,23 March 2018,1991,PG,65 min,Comedy,Synthetic description for sample title 123.
+s124,Movie,Sample Title 124,Director 4,"Actor 4, Actress 4",Turkey,19 April 2022,2018,TV-14,177 min,Documentary,Synthetic description for sample title 124.
+s125,Movie,Sample Title 125,Director 5,"Actor 5, Actress 5",Japan,14 February 2010,2001,TV-MA,104 min,Horror,Synthetic description for sample title 125.
+s126,Movie,Sample Title 126,Director 6,"Actor 6, Actress 6",Brazil,1 April 2010,2002,G,151 min,Drama,Synthetic description for sample title 126.
+s127,TV Show,Sample Title 127,Director 7,"Actor 7, Actress 7",India,3 April 2010,2016,PG,67 min,Horror,Synthetic description for sample title 127.
+s128,TV Show,Sample Title 128,Director 8,"Actor 8, Actress 8",Turkey,28 April 2019,2012,R,2 Seasons,Romance,Synthetic description for sample title 128.
+s129,TV Show,Sample Title 129,Director 9,"Actor 9, Actress 9",Brazil,13 February 2011,2004,TV-PG,3 Seasons,Romance,Synthetic description for sample title 129.
+s130,TV Show,Sample Title 130,Director 10,"Actor 10, Actress 0",India,15 March 2010,2001,TV-MA,145 min,Comedy,Synthetic description for sample title 130.
+s131,TV Show,Sample Title 131,Director 11,"Actor 11, Actress 1",Canada,4 February 2015,2001,PG-13,170 min,Sci-Fi,Synthetic description for sample title 131.
+s132,TV Show,Sample Title 132,Director 12,"Actor 12, Actress 2",Brazil,10 January 2017,1995,TV-14,126 min,Action,Synthetic description for sample title 132.
+s133,Movie,Sample Title 133,Director 13,"Actor 13, Actress 3",United Kingdom,5 February 2014,2010,G,1 Seasons,Horror,Synthetic description for sample title 133.
+s134,Movie,Sample Title 134,Director 14,"Actor 14, Actress 4",India,18 March 2016,1991,TV-14,1 Seasons,Comedy,Synthetic description for sample title 134.
+s135,Movie,Sample Title 135,Director 15,"Actor 0, Actress 5",Turkey,12 January 2021,1990,PG,3 Seasons,Romance,Synthetic description for sample title 135.
+s136,TV Show,Sample Title 136,Director 16,"Actor 1, Actress 6",Turkey,6 March 2022,2002,PG-13,8 Seasons,Horror,Synthetic description for sample title 136.
+s137,TV Show,Sample Title 137,Director 17,"Actor 2, Actress 7",United Kingdom,2 February 2012,1996,TV-MA,116 min,Drama,Synthetic description for sample title 137.
+s138,TV Show,Sample Title 138,Director 18,"Actor 3, Actress 8",Canada,17 February 2020,2002,TV-PG,97 min,Documentary,Synthetic description for sample title 138.
+s139,Movie,Sample Title 139,Director 19,"Actor 4, Actress 9",Turkey,10 April 2021,2001,TV-PG,173 min,Romance,Synthetic description for sample title 139.
+s140,Movie,Sample Title 140,Director 0,"Actor 5, Actress 0",Japan,26 January 2012,1995,TV-MA,86 min,Drama,Synthetic description for sample title 140.
+s141,Movie,Sample Title 141,Director 1,"Actor 6, Actress 1",India,24 April 2012,1990,G,175 min,Action,Synthetic description for sample title 141.
+s142,TV Show,Sample Title 142,Director 2,"Actor 7, Actress 2",India,24 January 2020,2012,PG-13,120 min,Action,Synthetic description for sample title 142.
+s143,TV Show,Sample Title 143,Director 3,"Actor 8, Actress 3",Turkey,27 January 2022,2022,PG,74 min,Comedy,Synthetic description for sample title 143.
+s144,TV Show,Sample Title 144,Director 4,"Actor 9, Actress 4",Brazil,7 April 2023,2016,G,3 Seasons,Sci-Fi,Synthetic description for sample title 144.
+s145,TV Show,Sample Title 145,Director 5,"Actor 10, Actress 5",United States,20 February 2016,1994,PG,10 Seasons,Drama,Synthetic description for sample title 145.
+s146,Movie,Sample Title 146,Director 6,"Actor 11, Actress 6",United States,25 April 2017,2008,TV-14,173 min,Documentary,Synthetic description for sample title 146.
+s147,Movie,Sample Title 147,Director 7,"Actor 12, Actress 7",Brazil,1 April 2011,2006,TV-14,137 min,Romance,Synthetic description for sample title 147.
+s148,TV Show,Sample Title 148,Director 8,"Actor 13, Actress 8",United States,5 April 2021,2014,PG,2 Seasons,Horror,Synthetic description for sample title 148.
+s149,Movie,Sample Title 149,Director 9,"Actor 14, Actress 9",India,17 February 2013,2016,PG-13,168 min,Comedy,Synthetic description for sample title 149.
+s150,Movie,Sample Title 150,Director 10,"Actor 0, Actress 0",Canada,22 April 2020,1998,PG,8 Seasons,Sci-Fi,Synthetic description for sample title 150.
+s151,TV Show,Sample Title 151,Director 11,"Actor 1, Actress 1",United States,4 March 2012,2000,TV-MA,1 Seasons,Horror,Synthetic description for sample title 151.
+s152,TV Show,Sample Title 152,Director 12,"Actor 2, Actress 2",India,8 March 2021,2003,PG-13,5 Seasons,Romance,Synthetic description for sample title 152.
+s153,Movie,Sample Title 153,Director 13,"Actor 3, Actress 3",Japan,1 January 2022,1996,R,10 Seasons,Comedy,Synthetic description for sample title 153.
+s154,Movie,Sample Title 154,Director 14,"Actor 4, Actress 4",Canada,24 January 2018,2022,PG,9 Seasons,Action,Synthetic description for sample title 154.
+s155,TV Show,Sample Title 155,Director 15,"Actor 5, Actress 5",Brazil,15 January 2019,2002,R,142 min,Action,Synthetic description for sample title 155.
+s156,Movie,Sample Title 156,Director 16,"Actor 6, Actress 6",India,3 February 2018,2003,PG-13,8 Seasons,Romance,Synthetic description for sample title 156.
+s157,Movie,Sample Title 157,Director 17,"Actor 7, Actress 7",Brazil,27 January 2012,2014,G,140 min,Drama,Synthetic description for sample title 157.
+s158,Movie,Sample Title 158,Director 18,"Actor 8, Actress 8",United States,24 January 2016,2018,R,3 Seasons,Drama,Synthetic description for sample title 158.
+s159,TV Show,Sample Title 159,Director 19,"Actor 9, Actress 9",Brazil,3 March 2020,2023,PG,4 Seasons,Drama,Synthetic description for sample title 159.
+s160,Movie,Sample Title 160,Director 0,"Actor 10, Actress 0",Turkey,12 March 2013,1990,G,1 Seasons,Drama,Synthetic description for sample title 160.
+s161,TV Show,Sample Title 161,Director 1,"Actor 11, Actress 1",Brazil,4 March 2010,2019,TV-MA,5 Seasons,Documentary,Synthetic description for sample title 161.
+s162,TV Show,Sample Title 162,Director 2,"Actor 12, Actress 2",Turkey,4 April 2014,1994,TV-PG,167 min,Sci-Fi,Synthetic description for sample title 162.
+s163,TV Show,Sample Title 163,Director 3,"Actor 13, Actress 3",Turkey,10 March 2016,1992,PG,76 min,Drama,Synthetic description for sample title 163.
+s164,Movie,Sample Title 164,Director 4,"Actor 14, Actress 4",Canada,1 February 2012,2023,R,87 min,Horror,Synthetic description for sample title 164.
+s165,TV Show,Sample Title 165,Director 5,"Actor 0, Actress 5",United Kingdom,2 January 2022,2022,PG-13,8 Seasons,Comedy,Synthetic description for sample title 165.
+s166,TV Show,Sample Title 166,Director 6,"Actor 1, Actress 6",Japan,24 January 2021,1994,TV-MA,66 min,Horror,Synthetic description for sample title 166.
+s167,TV Show,Sample Title 167,Director 7,"Actor 2, Actress 7",Japan,28 February 2018,2022,PG,123 min,Drama,Synthetic description for sample title 167.
+s168,TV Show,Sample Title 168,Director 8,"Actor 3, Actress 8",Turkey,5 April 2010,1991,TV-PG,5 Seasons,Romance,Synthetic description for sample title 168.
+s169,Movie,Sample Title 169,Director 9,"Actor 4, Actress 9",India,5 January 2013,2019,TV-MA,61 min,Documentary,Synthetic description for sample title 169.
+s170,Movie,Sample Title 170,Director 10,"Actor 5, Actress 0",Turkey,25 April 2015,2021,PG-13,1 Seasons,Romance,Synthetic description for sample title 170.
+s171,TV Show,Sample Title 171,Director 11,"Actor 6, Actress 1",United Kingdom,5 January 2023,2006,PG,169 min,Horror,Synthetic description for sample title 171.
+s172,TV Show,Sample Title 172,Director 12,"Actor 7, Actress 2",United States,27 April 2019,2001,PG,63 min,Comedy,Synthetic description for sample title 172.
+s173,TV Show,Sample Title 173,Director 13,"Actor 8, Actress 3",United States,26 February 2020,2021,R,5 Seasons,Horror,Synthetic description for sample title 173.
+s174,TV Show,Sample Title 174,Director 14,"Actor 9, Actress 4",Japan,21 March 2015,1995,TV-PG,88 min,Comedy,Synthetic description for sample title 174.
+s175,TV Show,Sample Title 175,Director 15,"Actor 10, Actress 5",India,6 January 2016,2015,R,8 Seasons,Comedy,Synthetic description for sample title 175.
+s176,Movie,Sample Title 176,Director 16,"Actor 11, Actress 6",India,2 January 2011,1995,PG-13,137 min,Drama,Synthetic description for sample title 176.
+s177,Movie,Sample Title 177,Director 17,"Actor 12, Actress 7",India,21 February 2015,2003,G,6 Seasons,Comedy,Synthetic description for sample title 177.
+s178,TV Show,Sample Title 178,Director 18,"Actor 13, Actress 8",United Kingdom,4 February 2020,2000,TV-PG,3 Seasons,Comedy,Synthetic description for sample title 178.
+s179,Movie,Sample Title 179,Director 19,"Actor 14, Actress 9",United States,22 January 2023,2014,G,5 Seasons,Drama,Synthetic description for sample title 179.
+s180,TV Show,Sample Title 180,Director 0,"Actor 0, Actress 0",United Kingdom,5 March 2020,2020,R,5 Seasons,Sci-Fi,Synthetic description for sample title 180.
+s181,Movie,Sample Title 181,Director 1,"Actor 1, Actress 1",Japan,25 April 2010,1992,PG-13,3 Seasons,Drama,Synthetic description for sample title 181.
+s182,TV Show,Sample Title 182,Director 2,"Actor 2, Actress 2",Japan,16 April 2012,1992,TV-MA,3 Seasons,Comedy,Synthetic description for sample title 182.
+s183,Movie,Sample Title 183,Director 3,"Actor 3, Actress 3",Canada,25 March 2019,2002,PG-13,61 min,Sci-Fi,Synthetic description for sample title 183.
+s184,Movie,Sample Title 184,Director 4,"Actor 4, Actress 4",India,21 March 2012,1990,R,74 min,Drama,Synthetic description for sample title 184.
+s185,TV Show,Sample Title 185,Director 5,"Actor 5, Actress 5",Japan,4 January 2010,2005,PG-13,156 min,Drama,Synthetic description for sample title 185.
+s186,TV Show,Sample Title 186,Director 6,"Actor 6, Actress 6",United States,5 January 2015,2017,TV-14,167 min,Horror,Synthetic description for sample title 186.
+s187,TV Show,Sample Title 187,Director 7,"Actor 7, Actress 7",United Kingdom,20 February 2010,1993,PG,63 min,Sci-Fi,Synthetic description for sample title 187.
+s188,Movie,Sample Title 188,Director 8,"Actor 8, Actress 8",India,24 January 2023,2019,TV-MA,125 min,Documentary,Synthetic description for sample title 188.
+s189,Movie,Sample Title 189,Director 9,"Actor 9, Actress 9",Japan,6 January 2022,2007,R,154 min,Horror,Synthetic description for sample title 189.
+s190,TV Show,Sample Title 190,Director 10,"Actor 10, Actress 0",Canada,4 March 2010,1997,TV-PG,140 min,Horror,Synthetic description for sample title 190.
+s191,TV Show,Sample Title 191,Director 11,"Actor 11, Actress 1",Japan,15 April 2017,1998,TV-PG,172 min,Action,Synthetic description for sample title 191.
+s192,TV Show,Sample Title 192,Director 12,"Actor 12, Actress 2",United States,8 January 2022,2012,TV-PG,147 min,Action,Synthetic description for sample title 192.
+s193,TV Show,Sample Title 193,Director 13,"Actor 13, Actress 3",Brazil,2 January 2014,1999,TV-MA,135 min,Action,Synthetic description for sample title 193.
+s194,Movie,Sample Title 194,Director 14,"Actor 14, Actress 4",India,28 March 2011,2019,PG,5 Seasons,Horror,Synthetic description for sample title 194.
+s195,TV Show,Sample Title 195,Director 15,"Actor 0, Actress 5",United States,4 January 2010,2004,TV-MA,1 Seasons,Romance,Synthetic description for sample title 195.
+s196,Movie,Sample Title 196,Director 16,"Actor 1, Actress 6",Brazil,13 March 2014,2014,R,2 Seasons,Action,Synthetic description for sample title 196.
+s197,Movie,Sample Title 197,Director 17,"Actor 2, Actress 7",Japan,21 March 2017,2011,G,9 Seasons,Sci-Fi,Synthetic description for sample title 197.
+s198,TV Show,Sample Title 198,Director 18,"Actor 3, Actress 8",Japan,22 March 2017,2007,PG-13,98 min,Sci-Fi,Synthetic description for sample title 198.
+s199,Movie,Sample Title 199,Director 19,"Actor 4, Actress 9",Canada,12 March 2022,2003,TV-14,7 Seasons,Action,Synthetic description for sample title 199.
+s200,TV Show,Sample Title 200,Director 0,"Actor 5, Actress 0",Turkey,9 February 2011,1996,G,8 Seasons,Horror,Synthetic description for sample title 200.
+s201,TV Show,Sample Title 201,Director 1,"Actor 6, Actress 1",Brazil,11 March 2011,2001,TV-PG,158 min,Documentary,Synthetic description for sample title 201.
+s202,TV Show,Sample Title 202,Director 2,"Actor 7, Actress 2",Brazil,4 January 2023,2007,R,5 Seasons,Drama,Synthetic description for sample title 202.
+s203,Movie,Sample Title 203,Director 3,"Actor 8, Actress 3",Japan,17 January 2023,1996,PG-13,1 Seasons,Action,Synthetic description for sample title 203.
+s204,Movie,Sample Title 204,Director 4,"Actor 9, Actress 4",Brazil,6 February 2017,1999,G,66 min,Comedy,Synthetic description for sample title 204.
+s205,TV Show,Sample Title 205,Director 5,"Actor 10, Actress 5",Canada,27 March 2011,2018,TV-14,1 Seasons,Action,Synthetic description for sample title 205.
+s206,Movie,Sample Title 206,Director 6,"Actor 11, Actress 6",United States,17 January 2022,2018,R,7 Seasons,Documentary,Synthetic description for sample title 206.
+s207,TV Show,Sample Title 207,Director 7,"Actor 12, Actress 7",United States,19 January 2020,2017,G,85 min,Drama,Synthetic description for sample title 207.
+s208,TV Show,Sample Title 208,Director 8,"Actor 13, Actress 8",India,26 March 2014,1991,PG-13,2 Seasons,Drama,Synthetic description for sample title 208.
+s209,Movie,Sample Title 209,Director 9,"Actor 14, Actress 9",Canada,23 March 2023,2010,R,9 Seasons,Romance,Synthetic description for sample title 209.
+s210,Movie,Sample Title 210,Director 10,"Actor 0, Actress 0",India,5 March 2016,2018,TV-MA,2 Seasons,Action,Synthetic description for sample title 210.
+s211,Movie,Sample Title 211,Director 11,"Actor 1, Actress 1",Canada,6 January 2021,2018,PG-13,5 Seasons,Sci-Fi,Synthetic description for sample title 211.
+s212,Movie,Sample Title 212,Director 12,"Actor 2, Actress 2",Turkey,16 April 2021,2005,R,132 min,Documentary,Synthetic description for sample title 212.
+s213,Movie,Sample Title 213,Director 13,"Actor 3, Actress 3",United States,23 January 2021,2003,R,142 min,Sci-Fi,Synthetic description for sample title 213.
+s214,TV Show,Sample Title 214,Director 14,"Actor 4, Actress 4",Japan,17 February 2016,2007,PG-13,129 min,Horror,Synthetic description for sample title 214.
+s215,Movie,Sample Title 215,Director 15,"Actor 5, Actress 5",India,13 February 2017,1990,TV-MA,10 Seasons,Sci-Fi,Synthetic description for sample title 215.
+s216,TV Show,Sample Title 216,Director 16,"Actor 6, Actress 6",United Kingdom,16 March 2020,2001,TV-MA,10 Seasons,Comedy,Synthetic description for sample title 216.
+s217,TV Show,Sample Title 217,Director 17,"Actor 7, Actress 7",India,28 April 2021,2009,TV-14,147 min,Drama,Synthetic description for sample title 217.
+s218,TV Show,Sample Title 218,Director 18,"Actor 8, Actress 8",India,21 April 2018,2020,TV-14,3 Seasons,Sci-Fi,Synthetic description for sample title 218.
+s219,Movie,Sample Title 219,Director 19,"Actor 9, Actress 9",Japan,28 February 2018,1995,TV-PG,3 Seasons,Sci-Fi,Synthetic description for sample title 219.
+s220,Movie,Sample Title 220,Director 0,"Actor 10, Actress 0",Japan,27 March 2014,1997,G,172 min,Action,Synthetic description for sample title 220.
+s221,TV Show,Sample Title 221,Director 1,"Actor 11, Actress 1",Turkey,14 April 2023,1995,TV-MA,173 min,Action,Synthetic description for sample title 221.
+s222,TV Show,Sample Title 222,Director 2,"Actor 12, Actress 2",India,20 February 2010,1995,TV-PG,86 min,Horror,Synthetic description for sample title 222.
+s223,TV Show,Sample Title 223,Director 3,"Actor 13, Actress 3",Canada,9 January 2022,2014,TV-14,166 min,Sci-Fi,Synthetic description for sample title 223.
+s224,Movie,Sample Title 224,Director 4,"Actor 14, Actress 4",India,4 January 2018,2003,PG,8 Seasons,Drama,Synthetic description for sample title 224.
+s225,Movie,Sample Title 225,Director 5,"Actor 0, Actress 5",Canada,9 February 2013,2022,TV-MA,157 min,Drama,Synthetic description for sample title 225.
+s226,TV Show,Sample Title 226,Director 6,"Actor 1, Actress 6",Brazil,24 February 2020,1992,TV-PG,4 Seasons,Sci-Fi,Synthetic description for sample title 226.
+s227,Movie,Sample Title 227,Director 7,"Actor 2, Actress 7",United States,14 April 2010,2013,R,1 Seasons,Comedy,Synthetic description for sample title 227.
+s228,Movie,Sample Title 228,Director 8,"Actor 3, Actress 8",Brazil,23 January 2022,1994,TV-MA,68 min,Sci-Fi,Synthetic description for sample title 228.
+s229,Movie,Sample Title 229,Director 9,"Actor 4, Actress 9",United States,28 April 2015,2023,PG,8 Seasons,Drama,Synthetic description for sample title 229.
+s230,Movie,Sample Title 230,Director 10,"Actor 5, Actress 0",Brazil,9 April 2010,2000,TV-14,1 Seasons,Comedy,Synthetic description for sample title 230.
+s231,TV Show,Sample Title 231,Director 11,"Actor 6, Actress 1",Japan,16 February 2013,2023,PG-13,73 min,Horror,Synthetic description for sample title 231.
+s232,TV Show,Sample Title 232,Director 12,"Actor 7, Actress 2",Turkey,18 April 2022,2014,G,7 Seasons,Horror,Synthetic description for sample title 232.
+s233,TV Show,Sample Title 233,Director 13,"Actor 8, Actress 3",Canada,3 January 2022,2019,TV-14,177 min,Horror,Synthetic description for sample title 233.
+s234,Movie,Sample Title 234,Director 14,"Actor 9, Actress 4",India,21 April 2014,1996,G,9 Seasons,Sci-Fi,Synthetic description for sample title 234.
+s235,TV Show,Sample Title 235,Director 15,"Actor 10, Actress 5",Brazil,27 January 2012,2012,TV-PG,126 min,Comedy,Synthetic description for sample title 235.
+s236,Movie,Sample Title 236,Director 16,"Actor 11, Actress 6",Turkey,27 January 2017,2014,PG-13,8 Seasons,Action,Synthetic description for sample title 236.
+s237,TV Show,Sample Title 237,Director 17,"Actor 12, Actress 7",Japan,6 March 2015,1998,PG,9 Seasons,Drama,Synthetic description for sample title 237.
+s238,TV Show,Sample Title 238,Director 18,"Actor 13, Actress 8",Japan,16 January 2015,1996,PG,8 Seasons,Drama,Synthetic description for sample title 238.
+s239,TV Show,Sample Title 239,Director 19,"Actor 14, Actress 9",Canada,17 February 2013,2009,R,4 Seasons,Comedy,Synthetic description for sample title 239.
+s240,Movie,Sample Title 240,Director 0,"Actor 0, Actress 0",Brazil,5 February 2017,2012,TV-PG,137 min,Sci-Fi,Synthetic description for sample title 240.
+s241,TV Show,Sample Title 241,Director 1,"Actor 1, Actress 1",United Kingdom,1 April 2014,2007,PG,60 min,Drama,Synthetic description for sample title 241.
+s242,TV Show,Sample Title 242,Director 2,"Actor 2, Actress 2",United States,22 March 2015,2022,TV-MA,6 Seasons,Documentary,Synthetic description for sample title 242.
+s243,TV Show,Sample Title 243,Director 3,"Actor 3, Actress 3",Brazil,2 February 2015,2009,TV-MA,144 min,Action,Synthetic description for sample title 243.
+s244,Movie,Sample Title 244,Director 4,"Actor 4, Actress 4",United Kingdom,16 March 2011,2010,PG,1 Seasons,Documentary,Synthetic description for sample title 244.
+s245,TV Show,Sample Title 245,Director 5,"Actor 5, Actress 5",Brazil,17 February 2022,1994,TV-PG,4 Seasons,Documentary,Synthetic description for sample title 245.
+s246,TV Show,Sample Title 246,Director 6,"Actor 6, Actress 6",United Kingdom,2 January 2015,2017,TV-PG,74 min,Comedy,Synthetic description for sample title 246.
+s247,Movie,Sample Title 247,Director 7,"Actor 7, Actress 7",Brazil,15 January 2023,1994,PG-13,1 Seasons,Drama,Synthetic description for sample title 247.
+s248,TV Show,Sample Title 248,Director 8,"Actor 8, Actress 8",Canada,27 March 2019,2016,PG-13,5 Seasons,Horror,Synthetic description for sample title 248.
+s249,Movie,Sample Title 249,Director 9,"Actor 9, Actress 9",United Kingdom,2 January 2011,2011,TV-MA,157 min,Horror,Synthetic description for sample title 249.
+s250,Movie,Sample Title 250,Director 10,"Actor 10, Actress 0",Japan,11 March 2017,2023,G,8 Seasons,Romance,Synthetic description for sample title 250.
+s251,Movie,Sample Title 251,Director 11,"Actor 11, Actress 1",United States,9 April 2018,2023,R,116 min,Drama,Synthetic description for sample title 251.
+s252,Movie,Sample Title 252,Director 12,"Actor 12, Actress 2",United States,16 January 2010,1997,TV-MA,5 Seasons,Drama,Synthetic description for sample title 252.
+s253,TV Show,Sample Title 253,Director 13,"Actor 13, Actress 3",United Kingdom,8 February 2019,1999,PG,4 Seasons,Documentary,Synthetic description for sample title 253.
+s254,Movie,Sample Title 254,Director 14,"Actor 14, Actress 4",United Kingdom,12 January 2013,2019,TV-MA,9 Seasons,Action,Synthetic description for sample title 254.
+s255,Movie,Sample Title 255,Director 15,"Actor 0, Actress 5",United Kingdom,7 March 2023,2010,R,5 Seasons,Comedy,Synthetic description for sample title 255.
+s256,TV Show,Sample Title 256,Director 16,"Actor 1, Actress 6",Turkey,26 February 2016,2012,PG,96 min,Horror,Synthetic description for sample title 256.
+s257,TV Show,Sample Title 257,Director 17,"Actor 2, Actress 7",Canada,2 January 2010,1990,TV-MA,149 min,Documentary,Synthetic description for sample title 257.
+s258,TV Show,Sample Title 258,Director 18,"Actor 3, Actress 8",United States,7 January 2021,2005,R,10 Seasons,Horror,Synthetic description for sample title 258.
+s259,TV Show,Sample Title 259,Director 19,"Actor 4, Actress 9",Turkey,2 February 2015,2018,G,8 Seasons,Romance,Synthetic description for sample title 259.
+s260,Movie,Sample Title 260,Director 0,"Actor 5, Actress 0",Japan,6 January 2014,1992,PG-13,2 Seasons,Comedy,Synthetic description for sample title 260.
+s261,Movie,Sample Title 261,Director 1,"Actor 6, Actress 1",United Kingdom,12 January 2018,2011,PG-13,97 min,Horror,Synthetic description for sample title 261.
+s262,TV Show,Sample Title 262,Director 2,"Actor 7, Actress 2",United States,27 April 2023,2022,TV-MA,79 min,Romance,Synthetic description for sample title 262.
+s263,Movie,Sample Title 263,Director 3,"Actor 8, Actress 3",Japan,2 February 2012,1996,TV-MA,7 Seasons,Documentary,Synthetic description for sample title 263.
+s264,TV Show,Sample Title 264,Director 4,"Actor 9, Actress 4",Japan,6 March 2022,1996,PG,4 Seasons,Horror,Synthetic description for sample title 264.
+s265,Movie,Sample Title 265,Director 5,"Actor 10, Actress 5",United States,21 January 2021,2005,TV-PG,8 Seasons,Horror,Synthetic description for sample title 265.
+s266,TV Show,Sample Title 266,Director 6,"Actor 11, Actress 6",India,28 January 2016,2007,PG-13,148 min,Comedy,Synthetic description for sample title 266.
+s267,Movie,Sample Title 267,Director 7,"Actor 12, Actress 7",India,5 January 2020,2008,R,83 min,Drama,Synthetic description for sample title 267.
+s268,Movie,Sample Title 268,Director 8,"Actor 13, Actress 8",Japan,23 January 2020,1997,PG-13,88 min,Action,Synthetic description for sample title 268.
+s269,Movie,Sample Title 269,Director 9,"Actor 14, Actress 9",Brazil,18 April 2022,1992,TV-MA,3 Seasons,Drama,Synthetic description for sample title 269.
+s270,TV Show,Sample Title 270,Director 10,"Actor 0, Actress 0",India,25 February 2022,2023,PG,100 min,Documentary,Synthetic description for sample title 270.
+s271,TV Show,Sample Title 271,Director 11,"Actor 1, Actress 1",Brazil,20 January 2016,1997,G,121 min,Comedy,Synthetic description for sample title 271.
+s272,Movie,Sample Title 272,Director 12,"Actor 2, Actress 2",United States,2 January 2021,2011,TV-14,7 Seasons,Drama,Synthetic description for sample title 272.
+s273,Movie,Sample Title 273,Director 13,"Actor 3, Actress 3",United Kingdom,6 January 2010,2009,TV-PG,2 Seasons,Sci-Fi,Synthetic description for sample title 273.
+s274,TV Show,Sample Title 274,Director 14,"Actor 4, Actress 4",Brazil,4 April 2014,2016,TV-PG,5 Seasons,Action,Synthetic description for sample title 274.
+s275,TV Show,Sample Title 275,Director 15,"Actor 5, Actress 5",Canada,27 March 2017,2011,PG-13,137 min,Drama,Synthetic description for sample title 275.
+s276,Movie,Sample Title 276,Director 16,"Actor 6, Actress 6",United States,5 April 2011,2019,G,9 Seasons,Romance,Synthetic description for sample title 276.
+s277,TV Show,Sample Title 277,Director 17,"Actor 7, Actress 7",Brazil,23 January 2011,2003,PG,2 Seasons,Horror,Synthetic description for sample title 277.
+s278,TV Show,Sample Title 278,Director 18,"Actor 8, Actress 8",Brazil,4 February 2016,1995,PG,70 min,Drama,Synthetic description for sample title 278.
+s279,Movie,Sample Title 279,Director 19,"Actor 9, Actress 9",Turkey,9 January 2010,1993,TV-PG,8 Seasons,Romance,Synthetic description for sample title 279.
+s280,TV Show,Sample Title 280,Director 0,"Actor 10, Actress 0",Japan,23 April 2015,1999,G,104 min,Drama,Synthetic description for sample title 280.
+s281,Movie,Sample Title 281,Director 1,"Actor 11, Actress 1",Canada,16 February 2014,1996,G,74 min,Drama,Synthetic description for sample title 281.
+s282,Movie,Sample Title 282,Director 2,"Actor 12, Actress 2",Turkey,15 January 2021,2013,G,71 min,Horror,Synthetic description for sample title 282.
+s283,Movie,Sample Title 283,Director 3,"Actor 13, Actress 3",United Kingdom,5 April 2017,2003,G,153 min,Romance,Synthetic description for sample title 283.
+s284,Movie,Sample Title 284,Director 4,"Actor 14, Actress 4",India,22 April 2010,2005,PG-13,1 Seasons,Sci-Fi,Synthetic description for sample title 284.
+s285,Movie,Sample Title 285,Director 5,"Actor 0, Actress 5",Japan,25 March 2021,2009,PG,2 Seasons,Romance,Synthetic description for sample title 285.
+s286,TV Show,Sample Title 286,Director 6,"Actor 1, Actress 6",India,14 March 2011,2013,PG-13,177 min,Drama,Synthetic description for sample title 286.
+s287,Movie,Sample Title 287,Director 7,"Actor 2, Actress 7",Canada,28 April 2018,1998,R,75 min,Romance,Synthetic description for sample title 287.
+s288,TV Show,Sample Title 288,Director 8,"Actor 3, Actress 8",United States,12 January 2014,2001,TV-MA,126 min,Documentary,Synthetic description for sample title 288.
+s289,Movie,Sample Title 289,Director 9,"Actor 4, Actress 9",Canada,11 April 2018,1991,G,125 min,Documentary,Synthetic description for sample title 289.
+s290,Movie,Sample Title 290,Director 10,"Actor 5, Actress 0",Canada,24 April 2017,2006,R,4 Seasons,Action,Synthetic description for sample title 290.
+s291,Movie,Sample Title 291,Director 11,"Actor 6, Actress 1",United States,6 January 2014,2010,TV-MA,10 Seasons,Drama,Synthetic description for sample title 291.
+s292,Movie,Sample Title 292,Director 12,"Actor 7, Actress 2",Canada,20 March 2017,2014,PG-13,178 min,Sci-Fi,Synthetic description for sample title 292.
+s293,Movie,Sample Title 293,Director 13,"Actor 8, Actress 3",United Kingdom,26 April 2020,2001,G,106 min,Comedy,Synthetic description for sample title 293.
+s294,Movie,Sample Title 294,Director 14,"Actor 9, Actress 4",United Kingdom,13 January 2022,2011,G,95 min,Romance,Synthetic description for sample title 294.
+s295,TV Show,Sample Title 295,Director 15,"Actor 10, Actress 5",Turkey,22 March 2010,2017,TV-PG,106 min,Action,Synthetic description for sample title 295.
+s296,TV Show,Sample Title 296,Director 16,"Actor 11, Actress 6",Canada,2 February 2022,2011,R,1 Seasons,Drama,Synthetic description for sample title 296.
+s297,Movie,Sample Title 297,Director 17,"Actor 12, Actress 7",United Kingdom,20 April 2021,2008,PG,2 Seasons,Sci-Fi,Synthetic description for sample title 297.
+s298,Movie,Sample Title 298,Director 18,"Actor 13, Actress 8",Brazil,15 January 2016,2020,TV-PG,9 Seasons,Comedy,Synthetic description for sample title 298.
+s299,TV Show,Sample Title 299,Director 19,"Actor 14, Actress 9",United States,5 March 2015,2010,TV-PG,4 Seasons,Drama,Synthetic description for sample title 299.
